@@ -38,6 +38,8 @@ h1 {
 	width: 40%;
 	position: relative;
 	left: 60%;
+	border-left: 1px solid #2a3132;
+	border-bottom: 1px solid #2a3132;
 }
 #title1 {
 	background-color: #763626;	

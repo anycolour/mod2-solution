@@ -29,7 +29,6 @@ h1 {
 
 .title {
 	color: #dfdfdf;
-	background-color: #763626;
 	font-size: 1.2em;
 	
 	text-align: center;
@@ -39,7 +38,15 @@ h1 {
 	width: 40%;
 	position: relative;
 	left: 60%;
-
+}
+#1 {
+	background-color: #763626;	
+}
+#2 {
+	background-color: #263676;	
+}
+#3 {
+	background-color: #929292;	
 }
 @media (max-width: 991px) and (min-width: 768px) { 
 		.row1 {
